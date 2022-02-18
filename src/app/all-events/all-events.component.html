@@ -1,0 +1,40 @@
+<div class="nav">
+ <nav class="navbar navbar-light bg-primary" style="width: 100%">
+   <div class="container-fluid">
+     <h1 style="color: aliceblue">All available events</h1>
+     <div class="d-flex">
+       <button class="btn btn-info mx-3" (click)="div1Function()">Show events</button>
+     </div>
+   </div>
+ </nav>
+
+
+
+   <table *ngIf="div1" class="table mt-3">
+     <thead>
+     <tr>
+       <th scope="col">Event ID</th>
+       <th scope="col">Event type</th>
+       <th scope="col">Event name</th>
+       <th scope="col">Place of event</th>
+       <th scope="col">Date</th>
+       <th scope="col">Price</th>
+       <th scope="col">Description</th>
+       <th scope="col">Action</th>
+     </tr>
+     </thead>
+     <tbody>
+     <tr *ngFor="let row of eventData">
+       <td>{{row.id}}</td>
+       <td>{{row.eventType}}</td>
+       <td>{{row.eventName}}</td>
+       <td>{{row.eventPlace}}</td>
+       <td>{{row.date}}</td>
+       <td>{{row.price}}</td>
+       <td>{{row.description}}</td>
+     </tr>
+     </tbody>
+   </table>
+
+</div>
+

@@ -1,0 +1,174 @@
+{
+  "theater": [
+    {
+      "id": 1,
+      "eventType": "Theater",
+      "eventName": "Naksitrallid",
+      "eventPlace": "Tallinn",
+      "date": "2022-02-17",
+      "price": "60",
+      "description": "Naksitrallide suvepäevad"
+    },
+    {
+      "id": 2,
+      "eventType": "Theater",
+      "eventName": "Laksitrallid",
+      "eventPlace": "Tartu",
+      "date": "2022-02-20",
+      "price": "50",
+      "description": "Laksitrallide kokkusaamine"
+    },
+    {
+      "id": 3,
+      "eventType": "Theater",
+      "eventName": "Saksitrallid",
+      "eventPlace": "Pärnu",
+      "date": "2022-02-28",
+      "price": "40",
+      "description": "Saksitrallid saavad jalad alla"
+    },
+    {
+      "id": 4,
+      "eventType": "Theater",
+      "eventName": "Kaksitrallid",
+      "eventPlace": "Paide",
+      "date": "2022-03-31",
+      "price": "70",
+      "description": "Kaksitrallid koos"
+    },
+    {
+      "id": 5,
+      "eventType": "Theater",
+      "eventName": "Paksitrallid",
+      "eventPlace": "Soodla",
+      "date": "2022-03-25",
+      "price": "20",
+      "description": "Paksitrallid soodlas"
+    },
+    {
+      "id": 7,
+      "eventType": "Test",
+      "eventName": "Test",
+      "eventPlace": "Test",
+      "date": "2029-06-15",
+      "price": "1000",
+      "description": "Test"
+    }
+  ],
+  "cinema": [
+    {
+      "id": 1,
+      "eventType": "Cinema",
+      "eventName": "Fast&Furious1",
+      "eventPlace": "Tallinn",
+      "date": "2022-02-20",
+      "price": "10",
+      "description": "Beginning of the saga"
+    },
+    {
+      "id": 2,
+      "eventType": "Cinema",
+      "eventName": "Fast&Furious2",
+      "eventPlace": "Narva",
+      "date": "2022-02-23",
+      "price": "9",
+      "description": "Part2"
+    },
+    {
+      "id": 3,
+      "eventType": "Cinema",
+      "eventName": "Fast&Furious3",
+      "eventPlace": "Tallinn",
+      "date": "2022-02-27",
+      "price": "10",
+      "description": "Part3"
+    },
+    {
+      "id": 4,
+      "eventType": "Cinema",
+      "eventName": "Fast&Furious4",
+      "eventPlace": "Paide",
+      "date": "2022-03-02",
+      "price": "8",
+      "description": "Part4"
+    },
+    {
+      "id": 5,
+      "eventType": "Cinema",
+      "eventName": "Fast&Furious5",
+      "eventPlace": "Tapa",
+      "date": "2022-03-13",
+      "price": "7",
+      "description": "Final ride"
+    },
+    {
+      "id": 6,
+      "eventType": "Test7",
+      "eventName": "Test7",
+      "eventPlace": "Test7",
+      "date": "2019-01-15",
+      "price": "300",
+      "description": "Test"
+    }
+  ],
+  "concert": [
+    {
+      "id": 1,
+      "eventType": "Concert",
+      "eventName": "Kool Moe & Family",
+      "eventPlace": "NY",
+      "date": "2022-03-04",
+      "price": "60",
+      "description": "Postponed"
+    },
+    {
+      "id": 2,
+      "eventType": "Concert",
+      "eventName": "Lilly Hyatt",
+      "eventPlace": "LA",
+      "date": "2022-02-19",
+      "price": "50",
+      "description": "Mercury Lounce"
+    },
+    {
+      "id": 3,
+      "eventType": "Concert",
+      "eventName": "K.Flay",
+      "eventPlace": "California",
+      "date": "2022-03-23",
+      "price": "80",
+      "description": "Irving Plaza"
+    },
+    {
+      "id": 4,
+      "eventType": "Concert",
+      "eventName": "Bad Suns",
+      "eventPlace": "Chicago",
+      "date": "2022-03-02",
+      "price": "100",
+      "description": "Webster Hall"
+    },
+    {
+      "id": 5,
+      "eventType": "Concert",
+      "eventName": "Fat Trout",
+      "eventPlace": "Alaska",
+      "date": "2022-03-10",
+      "price": "40",
+      "description": "Pillowinde"
+    },
+    {
+      "id": 6,
+      "eventType": "Test9",
+      "eventName": "Test9",
+      "eventPlace": "Test9",
+      "date": "2028-12-01",
+      "price": "20",
+      "description": "Test9"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
